@@ -33,6 +33,6 @@
 	<string>We need your location to show a heatmap.</string>
 
 	<key>GoogleMapsApiKey</key>
-	<string>AIzaSyAqxRU0jM8lUkQ2-H0cJaqS7vVw0RTtz4Y</string>
+	<string>API-key-here</string>
 </dict>
 </plist>
